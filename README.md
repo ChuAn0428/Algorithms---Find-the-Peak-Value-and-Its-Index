@@ -3,4 +3,4 @@ Consider the following problem. You have an array A[0], A[1], …, A[n - 1] of d
 
 Example: In the 6-element array illustrated below, the p index is 3, and the peak value is 4.
 
-Read the input values (i.e., the array values) as a series of integers, one per line, from a text file and output the peak value and its index.
+This program reads the input values (i.e., the array values) as a series of integers, one per line, from a text file and outputs the peak value and its index.
